@@ -22,7 +22,7 @@ nav ul li a{
     color:black;
 }
 .banner-section{
-    background-image: url('/image//banner.webp');
+    background-image: url('/Job-2/image/banner.webp');
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
@@ -54,4 +54,9 @@ nav ul li a{
 td, th{
     border: 1px solid black;
     padding: 10px;
+}
+/* form design */
+label{
+    display: block;
+    margin-bottom: 10px;
 }
